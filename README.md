@@ -10,4 +10,5 @@
 
 * Tree-based charting program with file support
 * Mass Processing sketch emulator in a seperate graphics library
+* Custom Java based Graphics library, currently only 2D, might add 3D support later
 * 3D engine from scratch in C++
