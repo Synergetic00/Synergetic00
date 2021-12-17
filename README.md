@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-**Notable Repositories**
+## Repositories Under Development
 
-* Learning about languages, syntax and capabilties (Language-Guides)
-* Learning about algorithms and data structures (Algorithms-and-Data-Strucutres)
-* Completing every problem on HackerRank for job training (HackerRank-Solutions)
-
-**Private Repositories**
-
-* Tree-based charting program with file support
-* Mass Processing sketch emulator in a seperate graphics library
-* Custom Java based Graphics library, currently only 2D, might add 3D support later
-* 3D engine from scratch in C++
+* JGraphics - 2D Java Graphics Library
+* ProcessEmu - Mass Processing file emulator and loader
+* Macrecord - C# Macro Recorder and Player
